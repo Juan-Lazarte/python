@@ -1,0 +1,7 @@
+Flask
+geopandas
+shapely
+plotly
+gunicorn
+uuid
+os
